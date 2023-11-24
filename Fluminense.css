@@ -1,0 +1,54 @@
+.img1{
+    width: 950px;
+    height: 500px;
+}
+
+.imagem1{
+    padding: 50px;
+}
+.principal{
+    display: flex;
+}
+
+.texto1{
+    margin-left: 50px;
+    margin-right: 100px;
+    text-align:justify
+}
+
+.segunda{
+    display: flex;
+}
+
+.img2{
+width: 450px;
+height: 350px;
+}
+
+.imagem2{
+    padding: 25px;
+}
+
+.img3{
+    width: 450px;
+    height: 350px;
+}
+
+.imagem3{
+    padding: 25px;
+}
+
+.texto2{
+    margin-right: 10px;
+    text-align:justify
+    
+}
+
+.texto3{  
+    margin-right: 100px;
+    text-align:justify
+}
+.texto4{
+    margin-left: 50px;
+    text-align:justify
+}
